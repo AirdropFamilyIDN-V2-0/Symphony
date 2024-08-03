@@ -18,7 +18,6 @@ CHAIN_ID=symphony-testnet-2
 CHAIN_NAME=symphony
 
 //Ganti ke pharse u di bawah adalah contoh pharse 
-
 MNEMONIC=saya bau curut hobi nonton msbrowvip
 
 
