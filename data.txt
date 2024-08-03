@@ -1,0 +1,25 @@
+RPC_URL=https://symphony-rpc.kleomedes.network
+REST_URL=https://symphony-api.kleomedes.network
+
+// Pisahkan dengan , addres 1 addres gw yang hapus durhaka wkwkwk 
+RECIPIENT_ADDRESSES=symphony1jmpvspr4hvyllten6874ctjk9mzwmg9lx62ucy,addres 2,addres 3...
+
+// Atur mau berapa jumbalah tx
+TRANSACTION_AMOUNT=100
+
+// info 
+MIN_BALANCE=1000
+FEE_AMOUNT=500
+GAS_LIMIT=200000
+MEMO=ping.pub
+
+// RPC Biarin
+CHAIN_ID=symphony-testnet-2
+CHAIN_NAME=symphony
+
+//Ganti ke pharse u di bawah adalah contoh pharse 
+
+MNEMONIC=saya bau curut hobi nonton msbrowvip
+
+
+DONASI? ke panti asuhan atau ke orang yang membutuhkan !
