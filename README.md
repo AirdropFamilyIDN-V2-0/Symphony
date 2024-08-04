@@ -16,7 +16,7 @@ npm install @cosmjs/stargate
 npm install @cosmjs/proto-signing
 ```
 ```
-npm install chalk
+npm install chalk@4
 ```
 ```
 npm install
@@ -24,7 +24,7 @@ npm install
 ```
 node bot.js
 ```
-
+Run address-checker kalau kalian butuh list address buat d paste di data.txt #untuk send
 # Isi pharse doang di data.txt
 # DELEGATE Rendom ke address validator udah w set auto nyari address validator di API
 Ga perlu ke web langsung dari CMD bisa atau dari Termux 
